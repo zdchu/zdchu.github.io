@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior student in the School of Computer Science at [Fudan University](http://www.fudan.edu.cn/2016/index.html), China. I have abundant interest in text mining techniques. My previous research experiences mainly lie in knowledge discovery and text stream modeling. I have the privilege to visit the [Human-Centric Data Mining](http://hcdm.cs.virginia.edu/) group at the [University of Virginia](http://www.virginia.edu/) as a research assistant in 2018 summer, supervised by [Prof. Hongning Wang](http://www.cs.virginia.edu/~hw5x/). My CV is available [here](zdchu.github.com/files/Chu_Zhendong_s_CV.pdf).
+I am a senior student in the School of Computer Science at [Fudan University](http://www.fudan.edu.cn/2016/index.html), China. I have abundant interest in text mining techniques. My previous research experiences mainly lie in knowledge discovery and text stream modeling. I have the privilege to visit the [Human-Centric Data Mining](http://hcdm.cs.virginia.edu/) group at the [University of Virginia](http://www.virginia.edu/) as a research assistant in 2018 summer, supervised by [Prof. Hongning Wang](http://www.cs.virginia.edu/~hw5x/). 
 
 News
 ------
