@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior student in the School of Computer Science at [Fudan University](http://www.fudan.edu.cn/2016/index.html), China. I have abundant interest in text mining techniques. My previous research experiences mainly lie in knowledge discovery and text stream modeling. I have the privilege to visit the [Human-Centric Data Mining](http://hcdm.cs.virginia.edu/) group at the [University of Virginia](http://www.virginia.edu/) as a research assistant in 2018 summer, supervised by [Prof. Hongning Wang](http://www.cs.virginia.edu/~hw5x/). 
+I am a senior student in the School of Computer Science at [Fudan University](http://www.fudan.edu.cn/2016/index.html), China. I have abundant interest in text mining techniques. My previous research experiences mainly lie in knowledge discovery and text stream modeling. I have the privilege to visit the [Human-Centric Data Mining](http://hcdm.cs.virginia.edu/) group at the [University of Virginia](http://www.virginia.edu/) as a research assistant in 2018 summer, supervised by [Prof. Hongning Wang](http://www.cs.virginia.edu/~hw5x/).
 
 News
 ------
+* 08/09/2019, Our paper "Accounting for Temporal Dynamics in Document Streams" has been accepted by CIKM 2019.
 * 04/2019, Decide to pursue my Ph.D. degree at the University of Virginia, hope to see you in Charlottesville:)
 * 03/04/2019, Admitted to the Ph.D. program of Computer Science School of the University of Virginia.
 * 12/16/2018, Our paper "CN-Probase: A Data-driven Approach for Large-scale Chinese Taxonomy Construction" has been accepted by ICDE 2019.
