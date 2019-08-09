@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zhendong Chu's Homepage"
 title_separator          : "-"
-name                     : &name "Zhendong Chu"
+name                     : &name "Zhendong Chu(储振东)"
 description              : &description "Undergraduate@FDU, PhD Student@UVa(2019.8-)"
 url                      : https://zdchu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
