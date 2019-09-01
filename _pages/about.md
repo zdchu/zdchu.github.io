@@ -22,8 +22,9 @@ News
 
 Awards
 ------
-* **Shanghai Outstanding Graduate (Top 5%), 2019**
-*  **Tung OOCL Scholarship (Top 3%), FDU, 2018**
+* SIGIR student travel grant, 2019
+* Shanghai Outstanding Graduate (Top 5%), 2019
+* Tung OOCL Scholarship (Top 3%), FDU, 2018
 * First Runner-up in the Shamrock Software Contest, 2018
 * Excellent Project in Tengfei Undergraduate Research Program, FDU, 2018
 * Second Prize of the Scholarship for Outstanding Students, FDU, 2017
