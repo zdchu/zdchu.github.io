@@ -12,7 +12,7 @@ I am a first-year Ph.D. student at the [University of Virginia](http://www.virgi
 
 Research Interest
 ---
-I have abundant interest in **Text Mining** and **Machine Learning**. Specifically, I am working on Hawkes-based topic model. My previous research experiences mainly lie on document stream modeling and relation classification.
+I have abundant interest in **Text Mining**, **Weakly-supervised Learning** and other exciting topics in **Machine Learning**. My previous research experiences mainly lie on document stream modeling and relation classification.
 
 News
 ------
