@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a ~~first-year~~ second-year Ph.D. student at the [University of Virginia](http://www.virginia.edu/), now doing my rotation with [Prof. Hongning Wang](http://www.cs.virginia.edu/~hw5x/). Prior to joining in UVa, I obtained my bachelor degree from the School of Computer Science at Fudan University, where I worked closely with [Prof. Shanfeng Zhu](http://datamining-iip.fudan.edu.cn/index.html) and [Prof. Yanghua Xiao](http://gdm.fudan.edu.cn/GDMWiki/Wiki.jsp?page=Yanghuaxiao).
+I am a ~~first-year~~ second-year Ph.D. student at the [University of Virginia](http://www.virginia.edu/), now doing my rotation with [Prof. Hongning Wang](http://www.cs.virginia.edu/~hw5x/).
+
+Prior to joining in UVa, I obtained my bachelor degree from the School of Computer Science at Fudan University, where I worked closely with [Prof. Shanfeng Zhu](http://datamining-iip.fudan.edu.cn/index.html) and [Prof. Yanghua Xiao](http://gdm.fudan.edu.cn/GDMWiki/Wiki.jsp?page=Yanghuaxiao).
 
 Research Interest
 ---
