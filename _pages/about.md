@@ -8,24 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student at the [University of Virginia](http://www.virginia.edu/), now doing my rotation with [Prof. Hongning Wang](http://www.cs.virginia.edu/~hw5x/). Prior to joining in UVa, I obtained my bachelor degree from the School of Computer Science at Fudan University, where I worked closely with [Prof. Shanfeng Zhu](http://datamining-iip.fudan.edu.cn/index.html) and [Prof. Yanghua Xiao](http://gdm.fudan.edu.cn/GDMWiki/Wiki.jsp?page=Yanghuaxiao).
+I am a ~~first-year~~ second-year Ph.D. student at the [University of Virginia](http://www.virginia.edu/), now doing my rotation with [Prof. Hongning Wang](http://www.cs.virginia.edu/~hw5x/). Prior to joining in UVa, I obtained my bachelor degree from the School of Computer Science at Fudan University, where I worked closely with [Prof. Shanfeng Zhu](http://datamining-iip.fudan.edu.cn/index.html) and [Prof. Yanghua Xiao](http://gdm.fudan.edu.cn/GDMWiki/Wiki.jsp?page=Yanghuaxiao).
 
 Research Interest
 ---
-I have abundant interest in **Text Mining**, **Weakly-supervised Learning** and other exciting topics in **Machine Learning**. My previous research experiences mainly lie on document stream modeling and relation classification.
+I have abundant interests in **Text Mining**, **Weakly-supervised Learning** and other exciting topics in **Machine Learning**. My previous research experiences mainly lie on ML for crowdsourcing, document stream modeling and relation classification.
 
 News
 ------
-* Aug-09-2019, Our paper **Accounting for Temporal Dynamics in Document Streams** has been accepted by CIKM 2019.
-* Apr-2019, Decide to pursue my Ph.D. degree at the University of Virginia, hope to see you in Charlottesville:)
-* Dec-16-2018, Our paper [**CN-Probase: A Data-driven Approach for Large-scale Chinese Taxonomy Construction**](http://kw.fudan.edu.cn/cnprobase/search/) has been accepted by ICDE 2019.
+* Dec 2020, Our paper **Learning from Crowds by Modeling Common Confusions** has been accepted by AAAI 2021, preprint and code will be released soon.
+* Aug 2019, Our paper **Accounting for Temporal Dynamics in Document Streams** has been accepted by CIKM 2019.
+* Apr 2019, Decide to pursue my Ph.D. degree at the University of Virginia, hope to see you in Charlottesville:)
+* Dec 2018, Our paper [**CN-Probase: A Data-driven Approach for Large-scale Chinese Taxonomy Construction**](http://kw.fudan.edu.cn/cnprobase/search/) has been accepted by ICDE 2019.
 
-Awards
+
+Publications
 ------
-* SIGIR student travel grant, 2019
-* Shanghai Outstanding Graduate (Top 5%), 2019
-* Tung OOCL Scholarship (Top 3%), FDU, 2018
-* First Runner-up in the Shamrock Software Contest, 2018
-* Excellent Project in Tengfei Undergraduate Research Program, FDU, 2018
-* Second Prize of the Scholarship for Outstanding Students, FDU, 2017
-* Highest Score in TREC-CDS, 2016
+1. [*AAAI'21 (to appear)*] Learning from Crowds by Modeling Common Confusions, Long paper, *__Zhendong Chu__, Jing Ma, Hongning Wang.*
+2. [*CIKM'19*] [Accounting for Temporal Dynamics in Document Streams](https://dl.acm.org/doi/10.1145/3357384.3358022), Long paper, *__Zhendong Chu__, Renqin Cai, Hongning Wang.*
+3. [*ICDE'19*] [CN-Probase: A Data-driven Approach for Large-scale Chinese Taxonomy Construction](https://arxiv.org/abs/1902.10326), Short paper, *Jindong Chen, Ao Wang, Jiangjie Chen, Yanghua Xiao, __Zhendong Chu__, et al.*
+4. [*Maniscript*] InSRL: A Multi-view Learning Framework fusing Multiple Information Sources for Distantly-supervised Relation Extraction, *__Zhendong Chu__\*, Haiyun Jiang\*, Yanghua Xiao, Wei Wang*
+
+
+Misc
+------
+I am a big fan of *stand-up comedy* and *jazz hiphop*, aside from sharing papers with me, clever jokes are also welcome (*plagiarism is not allowed on both!*).
