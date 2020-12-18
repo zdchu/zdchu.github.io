@@ -24,12 +24,12 @@ News
 * Dec 2018, Our paper **CN-Probase: A Data-driven Approach for Large-scale Chinese Taxonomy Construction** on *Knowledge Graph Construction* has been accepted by ICDE 2019, you can play with its demo [here](http://kw.fudan.edu.cn/cnprobase/search/).
 
 
-Publications
+Publications & Manuscripts
 ------
 1. [*AAAI'21 (to appear)*] Learning from Crowds by Modeling Common Confusions, Long paper, *__Zhendong Chu__, Jing Ma, Hongning Wang.*
 2. [*CIKM'19*] [Accounting for Temporal Dynamics in Document Streams](https://dl.acm.org/doi/10.1145/3357384.3358022), Long paper, *__Zhendong Chu__, Renqin Cai, Hongning Wang.*
 3. [*ICDE'19*] [CN-Probase: A Data-driven Approach for Large-scale Chinese Taxonomy Construction](https://arxiv.org/abs/1902.10326), Short paper, *Jindong Chen, Ao Wang, Jiangjie Chen, Yanghua Xiao, __Zhendong Chu__, et al.*
-4. [*Maniscript*] InSRL: A Multi-view Learning Framework fusing Multiple Information Sources for Distantly-supervised Relation Extraction, *__Zhendong Chu__\*, Haiyun Jiang\*, Yanghua Xiao, Wei Wang*
+4. [*arXiv*] [InSRL: A Multi-view Learning Framework fusing Multiple Information Sources for Distantly-supervised Relation Extraction](https://arxiv.org/abs/2012.09370), *__Zhendong Chu__\*, Haiyun Jiang\*, Yanghua Xiao, Wei Wang*
 
 
 Misc
