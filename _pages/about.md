@@ -29,7 +29,7 @@ Publications & Manuscripts
 1. [*AAAI'21 (to appear)*] Learning from Crowds by Modeling Common Confusions, Long paper, *__Zhendong Chu__, Jing Ma, Hongning Wang.* [paper][[code](https://github.com/zdchu/CoNAL)]
 2. [*CIKM'19*] Accounting for Temporal Dynamics in Document Streams, Long paper, *__Zhendong Chu__, Renqin Cai, Hongning Wang.* [[paper](https://dl.acm.org/doi/10.1145/3357384.3358022)]
 3. [*ICDE'19*] CN-Probase: A Data-driven Approach for Large-scale Chinese Taxonomy Construction, Short paper, *Jindong Chen, Ao Wang, Jiangjie Chen, Yanghua Xiao, __Zhendong Chu__, et al.* [[paper](https://arxiv.org/abs/1902.10326)]
-4. [*arXiv*2020] InSRL: A Multi-view Learning Framework fusing Multiple Information Sources for Distantly-supervised Relation Extraction, *__Zhendong Chu__\*, Haiyun Jiang\*, Yanghua Xiao, Wei Wang.* [[paper](https://arxiv.org/abs/2012.09370)]
+4. [*arXiv*‘20] InSRL: A Multi-view Learning Framework fusing Multiple Information Sources for Distantly-supervised Relation Extraction, *__Zhendong Chu__\*, Haiyun Jiang\*, Yanghua Xiao, Wei Wang.* [[paper](https://arxiv.org/abs/2012.09370)]
 
 
 Misc
