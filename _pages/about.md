@@ -19,7 +19,8 @@ I have abundant interests in **Text Mining**, **Weakly-Supervised Learning**, **
 News
 ------
 * Dec 2020, Our paper **Learning from Crowds by Modeling Common Confusions** on *ML for Crowdsourcing* has been accepted by AAAI 2021, preprint and code will be released soon.
-<!-- * Aug 2019, Our paper **Accounting for Temporal Dynamics in Document Streams** on *Dynamic Topic Models* has been accepted by CIKM 2019.
+
+<!--* Aug 2019, Our paper **Accounting for Temporal Dynamics in Document Streams** on *Dynamic Topic Models* has been accepted by CIKM 2019.
 * Apr 2019, Decide to pursue my Ph.D. degree at the University of Virginia, hope to see you in Charlottesville:)
  * Dec 2018, Our paper **CN-Probase: A Data-driven Approach for Large-scale Chinese Taxonomy Construction** on *Knowledge Graph Construction* has been accepted by ICDE 2019, you can play with its demo [here](http://kw.fudan.edu.cn/cnprobase/search/). -->
 
