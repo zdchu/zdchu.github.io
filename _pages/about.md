@@ -19,9 +19,9 @@ I have abundant interests in **Text Mining**, **Weakly-Supervised Learning**, **
 News
 ------
 * Dec 2020, Our paper **Learning from Crowds by Modeling Common Confusions** on *ML for Crowdsourcing* has been accepted by AAAI 2021, preprint and code will be released soon.
-* Aug 2019, Our paper **Accounting for Temporal Dynamics in Document Streams** on *Dynamic Topic Models* has been accepted by CIKM 2019.
+<!-- * Aug 2019, Our paper **Accounting for Temporal Dynamics in Document Streams** on *Dynamic Topic Models* has been accepted by CIKM 2019.
 * Apr 2019, Decide to pursue my Ph.D. degree at the University of Virginia, hope to see you in Charlottesville:)
-* Dec 2018, Our paper **CN-Probase: A Data-driven Approach for Large-scale Chinese Taxonomy Construction** on *Knowledge Graph Construction* has been accepted by ICDE 2019, you can play with its demo [here](http://kw.fudan.edu.cn/cnprobase/search/).
+ * Dec 2018, Our paper **CN-Probase: A Data-driven Approach for Large-scale Chinese Taxonomy Construction** on *Knowledge Graph Construction* has been accepted by ICDE 2019, you can play with its demo [here](http://kw.fudan.edu.cn/cnprobase/search/). -->
 
 
 Publications & Manuscripts
@@ -31,6 +31,13 @@ Publications & Manuscripts
 3. [*ICDE'19*] CN-Probase: A Data-driven Approach for Large-scale Chinese Taxonomy Construction, Short paper, *Jindong Chen, Ao Wang, Jiangjie Chen, Yanghua Xiao, __Zhendong Chu__, et al.* [[paper](https://arxiv.org/abs/1902.10326)]
 4. [*arXiv'20*] InSRL: A Multi-view Learning Framework fusing Multiple Information Sources for Distantly-supervised Relation Extraction, *__Zhendong Chu__\*, Haiyun Jiang\*, Yanghua Xiao, Wei Wang.* [[paper](https://arxiv.org/abs/2012.09370)]
 <!--5. [*Under review*] Improving Learning from Crowds via Generative Augmentation, *__Zhendong Chu__, Hongning Wang*. -->
+
+
+Service
+------
+Reviewer / sub-reviewer: AAAI 2021, SIGIR 2021
+
+Volunteer: KDD 20201
 
 
 Misc
