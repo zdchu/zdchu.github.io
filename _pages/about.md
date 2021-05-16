@@ -28,7 +28,7 @@ News
 
 Publications & Manuscripts
 ------
-1. [*KDD'21 (to appear)*] Improving Learning from Crowds via Generative Augmentation, Long paper, *__Zhendong Chu__, Hongning Wang.*
+1. [*KDD'21 (to appear)*] Improving Learning from Crowds via Generative Augmentation, Long paper, *__Zhendong Chu__ and Hongning Wang.*
 2. [*AAAI'21*] [Learning from Crowds by Modeling Common Confusions](https://arxiv.org/abs/2012.13052), Long paper, *__Zhendong Chu__, Jing Ma, Hongning Wang.*
 3. [*CIKM'19*] [Accounting for Temporal Dynamics in Document Streams](https://dl.acm.org/doi/10.1145/3357384.3358022), Long paper, *__Zhendong Chu__, Renqin Cai, Hongning Wang.*
 4. [*ICDE'19*] [CN-Probase: A Data-driven Approach for Large-scale Chinese Taxonomy Construction](https://arxiv.org/abs/1902.10326), Short paper, *Jindong Chen, Ao Wang, Jiangjie Chen, Yanghua Xiao, __Zhendong Chu__, et al.*
