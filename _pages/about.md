@@ -22,8 +22,8 @@ News
 
 Publications & Manuscripts
 ------
-* [*In submission*] Unravel Structured Heterogeneity of Tasks in Meta-Reinforcement Learning via Exploratory Clustering(https://arxiv.org/abs/2205.11788)**, Long paper, *__Zhendong Chu__ and Hongning Wang.*
-* [*WSDM'23*] Meta Policy Learning for Cold-Start Conversational Recommendation(https://arxiv.org/abs/2205.11788)**, Long paper, *__Zhendong Chu__ , Hongning Wang, Yun Xiao, Long Bo, Lingfei Wu.*
+* [*In submission*] [Unravel Structured Heterogeneity of Tasks in Meta-Reinforcement Learning via Exploratory Clustering](https://arxiv.org/abs/2205.11788)**, Long paper, *__Zhendong Chu__ and Hongning Wang.*
+* [*WSDM'23*] [Meta Policy Learning for Cold-Start Conversational Recommendation](https://arxiv.org/abs/2205.11788)**, Long paper, *__Zhendong Chu__ , Hongning Wang, Yun Xiao, Long Bo, Lingfei Wu.*
 * [*KDD'21*] [Improving Learning from Crowds via Generative Augmentation](https://dl.acm.org/doi/abs/10.1145/3447548.3467409), Long paper, *__Zhendong Chu__ and Hongning Wang.*
 * [*AAAI'21*] [Learning from Crowds by Modeling Common Confusions](https://arxiv.org/abs/2012.13052), Long paper, *__Zhendong Chu__, Jing Ma, Hongning Wang.*
 * [*CIKM'19*] [Accounting for Temporal Dynamics in Document Streams](https://dl.acm.org/doi/10.1145/3357384.3358022), Long paper, *__Zhendong Chu__, Renqin Cai, Hongning Wang.*
