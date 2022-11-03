@@ -35,7 +35,7 @@ Publications & Manuscripts
 
 Service
 ------
-Reviewer / sub-reviewer: EMNLP 2022, KDD 2022,WSDM (2023, 2022), SIGIR 2021, AAAI (2022, 2021)
+Reviewer / sub-reviewer: EMNLP 2022, KDD 2022, WSDM (2023, 2022), SIGIR 2021, AAAI (2022, 2021)
 
 Volunteer: KDD 2020
 
