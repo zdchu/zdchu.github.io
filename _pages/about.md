@@ -14,7 +14,7 @@ Prior to joining the UVa, I obtained my bachelor degree from the School of Compu
 
 Research Interest
 ------
-I have abundant interests in **Text Mining**, **Weakly-Supervised Learning**, **Knowledge Graph** and other exciting topics in **Machine Learning**. My previous research experiences mainly lie in ML for crowdsourcing, document stream modeling and relation classification.
+I have abundant interests in **Conversational Recommendation System**, **Meta-Reinforcement Learning**, **Weakly-Supervised Learning**, and other exciting topics in **Machine Learning**. My previous research experiences mainly lie in ML for crowdsourcing, text mining and knowledge graphs.
 
 News
 ------
