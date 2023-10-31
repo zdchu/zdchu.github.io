@@ -19,7 +19,7 @@ I have abundant interests in **Conversational Recommendation System**, **Meta-Re
 
 Publications & Manuscripts
 ------
-* [*NeurIPS'23*] Multi-Objective Intrinsic Reward Learning for Conversational Recommender Systems, Long paper, *__Zhendong Chu__, Nan Wang, Hongning Wang*
+* [*NeurIPS'23*] Multi-Objective Intrinsic Reward Learning for Conversational Recommender Systems, Long paper, *__Zhendong Chu__, Nan Wang, Hongning Wang.*
 * [*WSDM'23*] [Meta Policy Learning for Cold-Start Conversational Recommendation](https://arxiv.org/abs/2205.11788), Long paper, *__Zhendong Chu__, Hongning Wang, Yun Xiao, Bo Long, Lingfei Wu.*
 * [*KDD'21*] [Improving Learning from Crowds via Generative Augmentation](https://dl.acm.org/doi/abs/10.1145/3447548.3467409), Long paper, *__Zhendong Chu__ and Hongning Wang.*
 * [*AAAI'21*] [Learning from Crowds by Modeling Common Confusions](https://arxiv.org/abs/2012.13052), Long paper, *__Zhendong Chu__, Jing Ma, Hongning Wang.*
@@ -27,13 +27,13 @@ Publications & Manuscripts
 * [*ICDE'19*] [CN-Probase: A Data-driven Approach for Large-scale Chinese Taxonomy Construction](https://arxiv.org/abs/1902.10326), Short paper, *Jindong Chen, Ao Wang, Jiangjie Chen, Yanghua Xiao, __Zhendong Chu__, et al.*
 * [*arXiv'20*] [InSRL: A Multi-view Learning Framework fusing Multiple Information Sources for Distantly-supervised Relation Extraction](https://arxiv.org/abs/2012.09370), *__Zhendong Chu__\*, Haiyun Jiang\*, Yanghua Xiao, Wei Wang.*
 * [*In submission*] Improving a Named Entity Recognizer Trained on Noisy Data with a Few Clean Instances, Long paper, *__Zhendong Chu__, Ruiyi Zhang, Tong Yu, Rajiv Jain, Vlad I Morariu, Jiuxiang Gu, Ani Nenkova.*
-* [*In submission*] Meta-Reinforcement Learning via Exploratory Task Clustering, Long paper, *__Zhendong Chu__ and Hongning Wang.*
+* [*In submission*] Meta-Reinforcement Learning via Exploratory Task Clustering, Long paper, *__Zhendong Chu__, Renqin Cai, Hongning Wang.*
 * [*In submission*] MiddleGAN: Generate Domain Agnostic Samples for Unsupervised Domain Adaptation, Long paper, *Ye Gao, __Zhendong Chu__, Hongning Wang, John A. Stankovic.*
 
 
 Service
 ------
-Reviewer / sub-reviewer: EMNLP 2022, KDD 2022, WSDM (2023, 2022), SIGIR 2021, AAAI (2022, 2021)
+Reviewer / sub-reviewer: ACL 2023, EMNLP (2023, 2022), KDD (2023, 2022), WSDM (2024, 2023, 2022), SIGIR 2021, AAAI (2024, 2022, 2021), IJCAI 2023
 
 Volunteer: KDD 2020
 
