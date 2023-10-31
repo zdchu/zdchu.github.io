@@ -19,8 +19,6 @@ I have abundant interests in **Conversational Recommendation System**, **Meta-Re
 
 Publications & Manuscripts
 ------
-* [*In submission*] Unravel Structured Heterogeneity of Tasks in Meta-Reinforcement Learning via Exploratory Clustering, Long paper, *__Zhendong Chu__ and Hongning Wang.*
-* [*In submission*] MiddleGAN: Generate Domain Agnostic Samples for Unsupervised Domain Adaptation, Long paper, *Ye Gao, __Zhendong Chu__, Hongning Wang, John A. Stankovic.*
 * [*NeurIPS'23*] Multi-Objective Intrinsic Reward Learning for Conversational Recommender Systems, Long paper, *__Zhendong Chu__, Nan Wang, Hongning Wang*
 * [*WSDM'23*] [Meta Policy Learning for Cold-Start Conversational Recommendation](https://arxiv.org/abs/2205.11788), Long paper, *__Zhendong Chu__, Hongning Wang, Yun Xiao, Bo Long, Lingfei Wu.*
 * [*KDD'21*] [Improving Learning from Crowds via Generative Augmentation](https://dl.acm.org/doi/abs/10.1145/3447548.3467409), Long paper, *__Zhendong Chu__ and Hongning Wang.*
@@ -28,7 +26,9 @@ Publications & Manuscripts
 * [*CIKM'19*] [Accounting for Temporal Dynamics in Document Streams](https://dl.acm.org/doi/10.1145/3357384.3358022), Long paper, *__Zhendong Chu__, Renqin Cai, Hongning Wang.*
 * [*ICDE'19*] [CN-Probase: A Data-driven Approach for Large-scale Chinese Taxonomy Construction](https://arxiv.org/abs/1902.10326), Short paper, *Jindong Chen, Ao Wang, Jiangjie Chen, Yanghua Xiao, __Zhendong Chu__, et al.*
 * [*arXiv'20*] [InSRL: A Multi-view Learning Framework fusing Multiple Information Sources for Distantly-supervised Relation Extraction](https://arxiv.org/abs/2012.09370), *__Zhendong Chu__\*, Haiyun Jiang\*, Yanghua Xiao, Wei Wang.*
-<!--5. [*Under review*] Improving Learning from Crowds via Generative Augmentation, *__Zhendong Chu__, Hongning Wang*. -->
+* [*In submission*] Improving a Named Entity Recognizer Trained on Noisy Data with a Few Clean Instances, Long paper, *__Zhendong Chu__, Ruiyi Zhang, Tong Yu, Rajiv Jain, Vlad I Morariu, Jiuxiang Gu, Ani Nenkova.*
+* [*In submission*] Meta-Reinforcement Learning via Exploratory Task Clustering, Long paper, *__Zhendong Chu__ and Hongning Wang.*
+* [*In submission*] MiddleGAN: Generate Domain Agnostic Samples for Unsupervised Domain Adaptation, Long paper, *Ye Gao, __Zhendong Chu__, Hongning Wang, John A. Stankovic.*
 
 
 Service
