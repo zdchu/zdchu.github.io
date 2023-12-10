@@ -12,23 +12,24 @@ I am a final-year Ph.D. student at the University of Virginia, now working with 
 
 Prior to joining the UVa, I obtained my bachelor degree from the School of Computer Science at Fudan University, where I worked closely with [Prof. Shanfeng Zhu](http://datamining-iip.fudan.edu.cn/index.html) and [Prof. Yanghua Xiao](http://gdm.fudan.edu.cn/GDMWiki/Wiki.jsp?page=Yanghuaxiao).
 
+
 Research Interest
 ------
-I have abundant interests in **Conversational Recommendation System**, **Meta-Reinforcement Learning**, **Weakly-Supervised Learning**, and other exciting topics in **Machine Learning**. My previous research experiences mainly lie in ML for crowdsourcing, text mining and knowledge graphs.
+I have abundant interests in **Conversational Recommendation System**, **Meta-Reinforcement Learning**, **Weakly-Supervised Learning**, and other exciting topics in **Machine Learning**. My previous research experiences mainly lie in ML for crowdsourcing, text mining and knowledge graphs. Currently, I am diving into the exploration of Large Language Models (LLMs), including but not limited to RLHF, LLM agents, etc. 
 
 
 Publications & Manuscripts
 ------
-* [*NeurIPS'23*] Multi-Objective Intrinsic Reward Learning for Conversational Recommender Systems, Long paper, *__Zhendong Chu__, Nan Wang, Hongning Wang.*
+* [*AAAI'24*] [Multi-Objective Intrinsic Reward Learning for Conversational Recommender Systems](https://arxiv.org/abs/2302.07958), Long paper, *__Zhendong Chu__, Renqin Cai, Hongning Wang.*
+* [*NeurIPS'23*] [Multi-Objective Intrinsic Reward Learning for Conversational Recommender Systems](https://arxiv.org/abs/2310.20109), Long paper, *__Zhendong Chu__, Nan Wang, Hongning Wang.*
 * [*WSDM'23*] [Meta Policy Learning for Cold-Start Conversational Recommendation](https://arxiv.org/abs/2205.11788), Long paper, *__Zhendong Chu__, Hongning Wang, Yun Xiao, Bo Long, Lingfei Wu.*
 * [*KDD'21*] [Improving Learning from Crowds via Generative Augmentation](https://dl.acm.org/doi/abs/10.1145/3447548.3467409), Long paper, *__Zhendong Chu__ and Hongning Wang.*
 * [*AAAI'21*] [Learning from Crowds by Modeling Common Confusions](https://arxiv.org/abs/2012.13052), Long paper, *__Zhendong Chu__, Jing Ma, Hongning Wang.*
 * [*CIKM'19*] [Accounting for Temporal Dynamics in Document Streams](https://dl.acm.org/doi/10.1145/3357384.3358022), Long paper, *__Zhendong Chu__, Renqin Cai, Hongning Wang.*
 * [*ICDE'19*] [CN-Probase: A Data-driven Approach for Large-scale Chinese Taxonomy Construction](https://arxiv.org/abs/1902.10326), Short paper, *Jindong Chen, Ao Wang, Jiangjie Chen, Yanghua Xiao, __Zhendong Chu__, et al.*
 * [*arXiv'20*] [InSRL: A Multi-view Learning Framework fusing Multiple Information Sources for Distantly-supervised Relation Extraction](https://arxiv.org/abs/2012.09370), *__Zhendong Chu__\*, Haiyun Jiang\*, Yanghua Xiao, Wei Wang.*
-* [*In submission*] Improving a Named Entity Recognizer Trained on Noisy Data with a Few Clean Instances, Long paper, *__Zhendong Chu__, Ruiyi Zhang, Tong Yu, Rajiv Jain, Vlad I Morariu, Jiuxiang Gu, Ani Nenkova.*
-* [*In submission*] Meta-Reinforcement Learning via Exploratory Task Clustering, Long paper, *__Zhendong Chu__, Renqin Cai, Hongning Wang.*
-* [*In submission*] MiddleGAN: Generate Domain Agnostic Samples for Unsupervised Domain Adaptation, Long paper, *Ye Gao, __Zhendong Chu__, Hongning Wang, John A. Stankovic.*
+* [*In submission*] [Improving a Named Entity Recognizer Trained on Noisy Data with a Few Clean Instances](https://arxiv.org/abs/2310.16790), Long paper, *__Zhendong Chu__, Ruiyi Zhang, Tong Yu, Rajiv Jain, Vlad I Morariu, Jiuxiang Gu, Ani Nenkova.*
+* [*In submission*] [MiddleGAN: Generate Domain Agnostic Samples for Unsupervised Domain Adaptation](https://arxiv.org/abs/2211.03144), Long paper, *Ye Gao, __Zhendong Chu__, Hongning Wang, John A. Stankovic.*
 
 
 Service
