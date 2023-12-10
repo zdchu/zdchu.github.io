@@ -20,7 +20,7 @@ I have abundant interests in **Conversational Recommendation System**, **Meta-Re
 
 Publications & Manuscripts
 ------
-* [*AAAI'24*] [Multi-Objective Intrinsic Reward Learning for Conversational Recommender Systems](https://arxiv.org/abs/2302.07958), Long paper, *__Zhendong Chu__, Renqin Cai, Hongning Wang.*
+* [*AAAI'24*] [Meta-Reinforcement Learning via Exploratory Task Clustering](https://arxiv.org/abs/2302.07958), Long paper, *__Zhendong Chu__, Renqin Cai, Hongning Wang.*
 * [*NeurIPS'23*] [Multi-Objective Intrinsic Reward Learning for Conversational Recommender Systems](https://arxiv.org/abs/2310.20109), Long paper, *__Zhendong Chu__, Nan Wang, Hongning Wang.*
 * [*WSDM'23*] [Meta Policy Learning for Cold-Start Conversational Recommendation](https://arxiv.org/abs/2205.11788), Long paper, *__Zhendong Chu__, Hongning Wang, Yun Xiao, Bo Long, Lingfei Wu.*
 * [*KDD'21*] [Improving Learning from Crowds via Generative Augmentation](https://dl.acm.org/doi/abs/10.1145/3447548.3467409), Long paper, *__Zhendong Chu__ and Hongning Wang.*
