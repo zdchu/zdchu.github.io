@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. student at the University of Virginia, now working with [Prof. Hongning Wang](http://www.cs.virginia.edu/~hw5x/). Prior to joining the UVa, I obtained my bachelor degree from the School of Computer Science at Fudan University, where I worked closely with [Prof. Shanfeng Zhu](http://datamining-iip.fudan.edu.cn/index.html) and [Prof. Yanghua Xiao](http://gdm.fudan.edu.cn/GDMWiki/Wiki.jsp?page=Yanghuaxiao).
+I obtained my Ph.D. in Computer Science from the University of Virginia, under the supervision of [Prof. Hongning Wang](http://www.cs.virginia.edu/~hw5x/). Prior to joining the UVa, I obtained my bachelor degree from the School of Computer Science at Fudan University, where I worked closely with [Prof. Shanfeng Zhu](http://datamining-iip.fudan.edu.cn/index.html) and [Prof. Yanghua Xiao](http://gdm.fudan.edu.cn/GDMWiki/Wiki.jsp?page=Yanghuaxiao).
 
 
 Research Interest
@@ -18,6 +18,7 @@ I have abundant interests in **Conversational Recommendation System**, **Meta-Re
 
 Publications & Manuscripts
 ------
+* [*ICL@ICML'2024*] [Improve Temporal Awareness of LLMs for Sequential Recommendation](https://arxiv.org/abs/2405.02778), *__Zhendong Chu__, Zichao Wang, Ruiyi Zhang, Yangfeng Ji, Hongning Wang, Tong Sun.*
 * [*NAACL'24 Findings*] [Improving a Named Entity Recognizer Trained on Noisy Data with a Few Clean Instances](https://arxiv.org/abs/2310.16790), Long paper, *__Zhendong Chu__, Ruiyi Zhang, Tong Yu, Rajiv Jain, Vlad I Morariu, Jiuxiang Gu, Ani Nenkova.*
 * [*AAAI'24*] [Meta-Reinforcement Learning via Exploratory Task Clustering](https://arxiv.org/abs/2302.07958), Long paper, *__Zhendong Chu__, Renqin Cai, Hongning Wang.*
 * [*NeurIPS'23*] [Multi-Objective Intrinsic Reward Learning for Conversational Recommender Systems](https://arxiv.org/abs/2310.20109), Long paper, *__Zhendong Chu__, Nan Wang, Hongning Wang.*
