@@ -13,7 +13,7 @@ I obtained my Ph.D. in Computer Science from the University of Virginia, under t
 
 Research Interest
 ------
-My current research interests focus on **LLM personalization** (e.g., personalized fine-tuning and user profiling) and **Multimodal Large Reasoning Models** (Deepseek-R1-like models). Previously, I have conducted extensive research in areas including **Conversational Recommendation Systems**, **Meta-Reinforcement Learning**, **Weakly-Supervised Learning**, and other key topics in machine learning.
+My current research interests focus on **LLM personalization** (*e.g., personalized fine-tuning and user profiling*) and **Multimodal Large Reasoning Models** (*Deepseek-R1-like models*). Previously, I have conducted extensive research in areas including **Conversational Recommendation Systems**, **Meta-Reinforcement Learning**, **Weakly-Supervised Learning**, and other key topics in machine learning.
 
 
 Publications & Manuscripts
