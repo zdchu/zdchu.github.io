@@ -7,5 +7,4 @@ nav: True
 nav_order: 6
 ---
 * [Jian Xie](https://hsaest.github.io/), PhD Student, Ohio State University, *EMNLP\*2, arXiv\*1* 
-
 * [Tinghui Zhu](https://darthzhu.github.io/), PhD Student, UC Davis, *EMNLP\*1*
