@@ -210,7 +210,6 @@ plugins:
   - jekyll-regex-replace
   - jekyll/scholar
   - jekyll-sitemap
-  - jekyll-tabs
   - jekyll-terser
   - jekyll-toc
   - jekyll-twitter-plugin
