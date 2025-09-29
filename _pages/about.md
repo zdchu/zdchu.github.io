@@ -29,3 +29,5 @@ latest_posts:
 I obtained my Ph.D. in Computer Science from the University of Virginia, under the supervision of [Prof. Hongning Wang](http://www.cs.virginia.edu/~hw5x/). Prior to joining the UVa, I obtained my bachelor degree from the School of Computer Science at Fudan University, where I worked closely with [Prof. Shanfeng Zhu](http://datamining-iip.fudan.edu.cn/index.html) and [Prof. Yanghua Xiao](http://gdm.fudan.edu.cn/GDMWiki/Wiki.jsp?page=Yanghuaxiao).
 
 My current research interests focus on **LLM personalization** (*e.g., personalized fine-tuning and user profiling*) and **Multimodal Large Reasoning Models** (*Deepseek-R1-like models*). Previously, I have conducted extensive research in areas including **Conversational Recommendation Systems**, **Meta-Reinforcement Learning**, **Weakly-Supervised Learning**, and other key topics in machine learning.
+
+<font color="red">I am open to collaborating on research projects, feel free to email me if you think our interests align.</font>
