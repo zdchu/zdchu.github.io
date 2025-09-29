@@ -2,7 +2,7 @@
 layout: page
 permalink: /people/
 title: people
-description: It is my honor to collaborate with talented researchers. 
+description: It is my honor to collaborate with the following talented researchers: 
 nav: False
 nav_order: 6
 ---
