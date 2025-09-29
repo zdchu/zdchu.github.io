@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-people",
-          title: "people",
-          description: "It is my honor to collaborate with talented researchers.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
-        },{id: "post-a-post-with-plotly-js",
+  },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
